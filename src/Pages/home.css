@@ -1,0 +1,16 @@
+/*  */
+.front{
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://img.freepik.com/premium-photo/small-shopping-cart-green-with-copy-space_151349-1355.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  right: 30px;
+}
